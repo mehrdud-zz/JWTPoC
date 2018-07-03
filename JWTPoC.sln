@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTPoC", "JWTPoC\JWTPoC.csproj", "{AA0816C2-6E80-4112-BAFB-76E72ECD177B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWTPoCUnitTest", "JWTPoCUnitTest\JWTPoCUnitTest.csproj", "{F3BD5679-0171-4ED3-A447-1AD6BFA396AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA0816C2-6E80-4112-BAFB-76E72ECD177B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA0816C2-6E80-4112-BAFB-76E72ECD177B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA0816C2-6E80-4112-BAFB-76E72ECD177B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA0816C2-6E80-4112-BAFB-76E72ECD177B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3BD5679-0171-4ED3-A447-1AD6BFA396AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3BD5679-0171-4ED3-A447-1AD6BFA396AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3BD5679-0171-4ED3-A447-1AD6BFA396AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3BD5679-0171-4ED3-A447-1AD6BFA396AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE8152F5-8CA8-4D6B-903E-931F1F211A64}
+	EndGlobalSection
+EndGlobal
